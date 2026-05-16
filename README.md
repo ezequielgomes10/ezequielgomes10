@@ -6,7 +6,7 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -18,29 +18,29 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-- 🎓 **HarvardX CS50 SQL** — Introduction to Databases with SQL
-- 📊 **Banco de Dados e SQL**
-- 📈 **Power BI + Tableau**
-
----
-
-## 💼 Experiência relevante
-
-- 🏦 **Analista de Crédito Habitacional** — análise documental, pareceres técnicos, mitigação de riscos e conformidade regulatória
-- 🏛️ **Caixa Econômica Federal** — suporte operacional e gestão documental em agência de grande porte
-- 🎮 **Atleta Profissional de Esports** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
+-  **HarvardX CS50 SQL** — Introduction to Databases with SQL
+-  **Banco de Dados e SQL**
+-  **Power BI + Tableau**
 
 ---
 
-## 🎯 Objetivo
+##  Experiência relevante
+
+-  **Analista de Crédito Habitacional** — análise documental, pareceres técnicos, mitigação de riscos e conformidade regulatória
+-  **Caixa Econômica Federal** — suporte operacional e gestão documental em agência de grande porte
+-  **Atleta Profissional de Esports** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
+
+---
+
+##  Objetivo
 
 Aplicar minha experiência com dados financeiros e meu raciocínio analítico em uma posição de **Analista de Dados** ou **Analista de Crédito**, contribuindo com decisões baseadas em dados e otimização de processos.
 
 ---
 
-## 📬 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielgomesrocha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ezequiel.gomes@live.com)
