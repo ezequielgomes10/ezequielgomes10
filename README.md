@@ -22,7 +22,7 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 - 🎓 **HarvardX CS50 SQL** — Introduction to Databases with SQL
 - 📊 **Banco de Dados e SQL**
-- 📈 **Power BI + Tableau **
+- 📈 **Power BI + Tableau**
 
 ---
 
