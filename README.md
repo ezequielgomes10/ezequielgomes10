@@ -21,8 +21,8 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 ## 📚 Atualmente estudando
 
 - 🎓 **HarvardX CS50 SQL** — Introduction to Databases with SQL
-- 📊 **Banco de Dados e SQL + Power BI**
-- 📈 **Escola do Trabalhador 4.0** — Analista de Dados
+- 📊 **Banco de Dados e SQL**
+- 📈 **Power BI + Tableau **
 
 ---
 
