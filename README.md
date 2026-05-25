@@ -1,6 +1,6 @@
 # Olá, eu sou Ezequiel Gomes Rocha 💻
 
-Profissional de tecnologia com background em **análise de crédito habitacional** e **operações financeiras**, em transição para a área de **dados**. Ex-atleta profissional de esports com participações em competições mundiais — o que me moldou com disciplina, tomada de decisão sob pressão e trabalho em equipe.
+Profissional de tecnologia com background em **análise de crédito habitacional** e **operações financeiras**, em transição para a área de **dados**. Ex-atleta profissional de esports com participações em competições mundiais - o que me moldou com disciplina, tomada de decisão sob pressão e trabalho em equipe.
 
 Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha primeira oportunidade como **Analista de Dados Júnior** ou **Analista de Crédito/Operações**.
 
