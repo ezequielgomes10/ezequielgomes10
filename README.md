@@ -30,7 +30,7 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 -  **Analista de Crédito Habitacional** — análise documental, pareceres técnicos, mitigação de riscos e conformidade regulatória
 -  **Caixa Econômica Federal** — suporte operacional e gestão documental em agência de grande porte
--  **Atleta Profissional de Esports** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
+-  **Analista Profissional de Esports** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
 
 ---
 
