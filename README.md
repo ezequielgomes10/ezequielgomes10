@@ -21,7 +21,7 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 ##  Atualmente estudando
 
 -  **HarvardX CS50 SQL** — Introduction to Databases with SQL
--  **Banco de Dados e SQL**
+-  **Bootcamp Bradesco — GenAI, Dados & Cyber**
 -  **Power BI + Tableau**
 
 ---
@@ -30,7 +30,7 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 -  **Analista de Crédito Habitacional** — análise documental, pareceres técnicos, mitigação de riscos e conformidade regulatória
 -  **Caixa Econômica Federal** — suporte operacional e gestão documental em agência de grande porte
--  **Analista Profissional de Esports** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
+-  **Analista de Performance e Estratégia** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
 
 ---
 
