@@ -20,13 +20,13 @@
 
 <!-- TYPING ANIMATION — TÍTULOS CICLANDO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1500&color=71717A&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Analista+de+Dados;Ex-Atleta+Profissional+de+Esports;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1500&color=000000&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Analista+de+Dados;Business+Intelligence+%26+Data+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+IA" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- TAGLINE SUTIL — VISÍVEL E COM MAIS ALTURA -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=5000&pause=3000&color=52525B&center=true&vCenter=true&repeat=true&width=480&height=35&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%E2%80%94+RS%2C+Brasil" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=5000&pause=3000&color=000000&center=true&vCenter=true&repeat=true&width=480&height=35&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%E2%80%94+RS%2C+Brasil" alt="Tagline" />
 
 <br><br>
 
@@ -75,16 +75,16 @@
 nome: Ezequiel Gomes Rocha
 localização: Rio Grande do Sul, Brasil
 foco: Análise de Dados & Business Intelligence
-formação: ADS — UNINTER (2019–2022)
+formação: Análise e Desenvolvimento de Sistemas • UNINTER
 
 background:
   - Análise de Crédito Habitacional
-  - Operações Financeiras (CEF)
-  - Esports Competitivo (ALGS)
+  - Operações Financeiras
+  - Performance Competitiva (ALGS)
 
-conquistas_esports:
-  - "🇬🇧 Classificação Mundial — Londres (2023)"
-  - "🇺🇸 Classificação Mundial — Nova Orleans (2024)"
+conquistas:
+  - "Classificação Mundial — Londres (2023)"
+  - "Classificação Mundial — Nova Orleans (2024)"
 
 soft_skills:
   - Tomada de decisão sob pressão
@@ -203,20 +203,20 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 <div align="center">
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1a1a2e', 'primaryTextColor': '#e4e4e7', 'primaryBorderColor': '#27272a', 'lineColor': '#3f3f46', 'secondaryColor': '#16213e', 'tertiaryColor': '#0f3460', 'fontSize': '13px', 'fontFamily': 'Inter, system-ui, sans-serif'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#000000', 'primaryTextColor': '#e4e4e7', 'primaryBorderColor': '#27272a', 'lineColor': '#3f3f46', 'secondaryColor': '#000000', 'tertiaryColor': '#000000', 'fontSize': '13px', 'fontFamily': 'Inter, system-ui, sans-serif'}}}%%
 
 flowchart LR
-    A["🗄️ Fontes de Dados\n<sub>SQL Server · PostgreSQL · APIs</sub>"]
-    -->|" extract "| B["⚙️ ETL & Transformação\n<sub>Python · Power Query · SQL</sub>"]
-    B -->|" transform "| C["📐 Modelagem\n<sub>Star Schema · DAX · Métricas</sub>"]
-    C -->|" visualize "| D["📊 Dashboards\n<sub>Power BI · Tableau · Excel</sub>"]
-    D -->|" act "| E["🎯 Decisão\n<sub>Relatórios · KPIs · Insights</sub>"]
+    A["Fontes de Dados\n<sub>SQL Server · PostgreSQL · APIs</sub>"]
+    -->|" extract "| B["ETL & Transformação\n<sub>Python · Power Query · SQL</sub>"]
+    B -->|" transform "| C["Modelagem\n<sub>Star Schema · DAX · Métricas</sub>"]
+    C -->|" visualize "| D["Dashboards\n<sub>Power BI · Tableau · Excel</sub>"]
+    D -->|" act "| E["Decisão\n<sub>Relatórios · KPIs · Insights</sub>"]
 
-    style A fill:#0d0d0d,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style B fill:#1a1a2e,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style C fill:#16213e,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style D fill:#0f3460,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style E fill:#1a1a2e,stroke:#27272a,stroke-width:1px,color:#e4e4e7
+    style A fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
+    style B fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
+    style C fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
+    style D fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
+    style E fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
 ```
 
 </div>
@@ -251,18 +251,6 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>Suporte Administrativo</b> — Caixa Econômica Federal &nbsp;·&nbsp; 2017 – 2019</summary>
-<br>
-
-> RS, Brasil
->
-> Suporte operacional e gestão documental em agência de grande porte,
-> digitalização e indexação de contratos financeiros, apoio na abertura de contas
-> e conferência de documentação cadastral.
-
-</details>
-
-<details>
 <summary><b>Analista de Performance e Estratégia</b> — ATHXHVY Esports (ALGS) &nbsp;·&nbsp; 2020 – 2024</summary>
 <br>
 
@@ -272,8 +260,20 @@ flowchart LR
 > individual e coletiva, inteligência competitiva e benchmarking via modelagem estatística.
 >
 > Classificação para competições mundiais:
-> - 🇬🇧 **Londres** (2023)
-> - 🇺🇸 **Nova Orleans** (2024)
+> - **Londres** (2023)
+> - **Nova Orleans** (2024)
+
+</details>
+
+<details>
+<summary><b>Suporte Administrativo</b> — Caixa Econômica Federal &nbsp;·&nbsp; 2017 – 2019</summary>
+<br>
+
+> RS, Brasil
+>
+> Suporte operacional e gestão documental em agência de grande porte,
+> digitalização e indexação de contratos financeiros, apoio na abertura de contas
+> e conferência de documentação cadastral.
 
 </details>
 
@@ -298,12 +298,12 @@ flowchart LR
 
 | Status | Certificação | Instituição |
 |:---:|:---|:---|
-| 🎓 | **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINTER (2019–2022) |
-| 📚 | **CS50's Introduction to Databases with SQL** | HarvardX *(em andamento)* |
-| 📚 | **Bootcamp GenAI, Dados & Cyber** | Bradesco *(em andamento)* |
-| ✅ | **Intensivo de Power BI** | Hashtag Treinamentos |
-| ✅ | **ABECIP CA300 — Crédito Imobiliário** | ABECIP |
-| ✅ | **FBB100 — Correspondente Completo + LGPD** | FEBRABAN |
+| ![Concluído](./status-completed.svg) | **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINTER (2019–2022) |
+| ![Em Andamento](./status-in-progress.svg) | **CS50's Introduction to Databases with SQL** | HarvardX *(em andamento)* |
+| ![Em Andamento](./status-in-progress.svg) | **Bootcamp GenAI, Dados & Cyber** | Bradesco *(em andamento)* |
+| ![Concluído](./status-completed.svg) | **Intensivo de Power BI** | Hashtag Treinamentos |
+| ![Concluído](./status-completed.svg) | **ABECIP CA300 — Crédito Imobiliário** | ABECIP |
+| ![Concluído](./status-completed.svg) | **FBB100 — Correspondente Completo + LGPD** | FEBRABAN |
 
 </div>
 
@@ -320,7 +320,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=5000&pause=4000&color=3F3F46&center=true&vCenter=true&repeat=true&width=520&height=25&lines=%E2%80%9CConsist%C3%AAncia+e+an%C3%A1lise+fazem+toda+a+diferen%C3%A7a+%E2%80%94+no+esport+e+nos+dados.%E2%80%9D" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=5000&pause=4000&color=000000&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%E2%80%9CDecis%C3%B5es+estrat%C3%A9gicas+come%C3%A7am+com+a+clareza+dos+dados.%E2%80%9D" alt="Quote" />
 
 <br><br>
 
