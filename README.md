@@ -10,11 +10,16 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
+![IA](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HarvardX](https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=edx&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -30,7 +35,7 @@ Atualmente me aprofundando em SQL, Power BI e análise de dados, buscando minha 
 
 -  **Analista de Crédito Habitacional** — análise documental, pareceres técnicos, mitigação de riscos e conformidade regulatória
 -  **Caixa Econômica Federal** — suporte operacional e gestão documental em agência de grande porte
--  **Analista de Performance e Estratégia** — competições internacionais em **Londres (2023)** e **Nova Orleans (2024)**
+-  **Analista de Performance e Estratégia** — competições internacionais em **Londres 🇬🇧 (2023)** e **Nova Orleans 🇺🇸 (2024)**
 
 ---
 
