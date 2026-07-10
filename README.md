@@ -3,8 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=&fontSize=0&animation=fadeIn&stroke=71717a">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e8e8e8,50:d4d4d8,100:a1a1aa&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1c1c1e,100:27272a&height=180&section=header&text=&fontSize=0&animation=fadeIn&stroke=71717a">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:e4e4e7,100:d4d4d8&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%">
 </picture>
 
 <div align="center">
@@ -16,11 +16,11 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- NOME ESTÁTICO COM PESO VISUAL FORTE -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Ezequiel%20Gomes%20Rocha&fontSize=42&fontColor=e4e4e7&fontAlignY=50&animation=fadeIn&desc=&descSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Ezequiel%20Gomes%20Rocha&fontSize=42&fontColor=000000&fontAlignY=50&animation=fadeIn&desc=&descSize=0" width="100%"/>
 
 <!-- TYPING ANIMATION — TÍTULOS CICLANDO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1500&color=000000&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Analista+de+Dados;Business+Intelligence+%26+Data+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1500&color=e4e4e7&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Analista+de+Dados;Business+Intelligence+%26+Data+Analytics;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+IA" alt="Typing SVG" />
 </a>
 
 <br>
@@ -201,24 +201,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 <br>
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#000000', 'primaryTextColor': '#e4e4e7', 'primaryBorderColor': '#27272a', 'lineColor': '#3f3f46', 'secondaryColor': '#000000', 'tertiaryColor': '#000000', 'fontSize': '13px', 'fontFamily': 'Inter, system-ui, sans-serif'}}}%%
-
-flowchart LR
-    A["Fontes de Dados\n<sub>SQL Server · PostgreSQL · APIs</sub>"]
-    -->|" extract "| B["ETL & Transformação\n<sub>Python · Power Query · SQL</sub>"]
-    B -->|" transform "| C["Modelagem\n<sub>Star Schema · DAX · Métricas</sub>"]
-    C -->|" visualize "| D["Dashboards\n<sub>Power BI · Tableau · Excel</sub>"]
-    D -->|" act "| E["Decisão\n<sub>Relatórios · KPIs · Insights</sub>"]
-
-    style A fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style B fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style C fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style D fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-    style E fill:#000000,stroke:#27272a,stroke-width:1px,color:#e4e4e7
-```
-
+  <img src="./pipeline.svg?v=2" width="100%" alt="Meu Pipeline de Dados" />
 </div>
 
 <br>
@@ -298,12 +281,12 @@ flowchart LR
 
 | Status | Certificação | Instituição |
 |:---:|:---|:---|
-| ![Concluído](./status-completed.svg) | **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINTER (2019–2022) |
-| ![Em Andamento](./status-in-progress.svg) | **CS50's Introduction to Databases with SQL** | HarvardX *(em andamento)* |
-| ![Em Andamento](./status-in-progress.svg) | **Bootcamp GenAI, Dados & Cyber** | Bradesco *(em andamento)* |
-| ![Concluído](./status-completed.svg) | **Intensivo de Power BI** | Hashtag Treinamentos |
-| ![Concluído](./status-completed.svg) | **ABECIP CA300 — Crédito Imobiliário** | ABECIP |
-| ![Concluído](./status-completed.svg) | **FBB100 — Correspondente Completo + LGPD** | FEBRABAN |
+| ![Concluído](./status-completed.svg?v=2) | **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINTER (2019–2022) |
+| ![Em Andamento](./status-in-progress.svg?v=2) | **CS50's Introduction to Databases with SQL** | HarvardX *(em andamento)* |
+| ![Em Andamento](./status-in-progress.svg?v=2) | **Bootcamp GenAI, Dados & Cyber** | Bradesco *(em andamento)* |
+| ![Concluído](./status-completed.svg?v=2) | **Intensivo de Power BI** | Hashtag Treinamentos |
+| ![Concluído](./status-completed.svg?v=2) | **ABECIP CA300 — Crédito Imobiliário** | ABECIP |
+| ![Concluído](./status-completed.svg?v=2) | **FBB100 — Correspondente Completo + LGPD** | FEBRABAN |
 
 </div>
 
@@ -335,6 +318,6 @@ flowchart LR
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1a1aa,50:d4d4d8,100:e8e8e8&height=120&section=footer&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:27272a,50:1c1c1e,100:0a0a0a&height=120&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4d4d8,50:e4e4e7,100:ffffff&height=120&section=footer&animation=fadeIn" width="100%">
 </picture>
