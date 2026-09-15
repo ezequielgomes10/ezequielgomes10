@@ -146,7 +146,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 <!-- BADGES DETALHADAS POR CATEGORIA -->
 
 <details>
-<summary>&nbsp;&nbsp;📊&nbsp;&nbsp;<b>Dados & Analytics</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Dados & Analytics</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
 <br>
 
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=4479A1)
@@ -172,7 +172,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;🛠️&nbsp;&nbsp;<b>Ferramentas</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Ferramentas</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032)
