@@ -146,7 +146,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 <!-- BADGES DETALHADAS POR CATEGORIA -->
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Dados & Analytics</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Dados & Analytics</b>&nbsp;&nbsp;-&nbsp;&nbsp;<i>clique para expandir</i></summary>
 <br>
 
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=4479A1)
@@ -163,7 +163,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;☁️&nbsp;&nbsp;<b>Cloud & IA</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Cloud & IA</b>&nbsp;&nbsp;-&nbsp;&nbsp;<i>clique para expandir</i></summary>
 <br>
 
 ![Azure](https://img.shields.io/badge/Azure-0A0A0A?style=flat-square&logo=microsoftazure&logoColor=0078D4)
@@ -172,7 +172,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Ferramentas</b>&nbsp;&nbsp;—&nbsp;&nbsp;<i>clique para expandir</i></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>Ferramentas</b>&nbsp;&nbsp;-&nbsp;&nbsp;<i>clique para expandir</i></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032)
@@ -222,7 +222,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 <br>
 
 <details>
-<summary><b>Analista de Crédito Habitacional</b> — Everton Francisco Financiamentos Habitacionais &nbsp;·&nbsp; 2024 – 2025</summary>
+<summary><b>Analista de Crédito Habitacional</b> - Everton Francisco Financiamentos Habitacionais &nbsp;·&nbsp; 2024 – 2025</summary>
 <br>
 
 > RS, Brasil
@@ -234,7 +234,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 </details>
 
 <details>
-<summary><b>Analista de Performance e Estratégia</b> — ATHXHVY Esports (ALGS) &nbsp;·&nbsp; 2020 – 2024</summary>
+<summary><b>Analista de Performance e Estratégia</b> - ATHXHVY Esports (ALGS) &nbsp;·&nbsp; 2020 – 2024</summary>
 <br>
 
 > Remoto
@@ -249,7 +249,7 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 </details>
 
 <details>
-<summary><b>Suporte Administrativo</b> — Caixa Econômica Federal &nbsp;·&nbsp; 2017 – 2019</summary>
+<summary><b>Suporte Administrativo</b> - Caixa Econômica Federal &nbsp;·&nbsp; 2017 – 2019</summary>
 <br>
 
 > RS, Brasil
@@ -285,8 +285,8 @@ Aplicar experiência com **dados financeiros** e **raciocínio analítico** em u
 | ![Em Andamento](./status-in-progress.svg?v=2) | **CS50's Introduction to Databases with SQL** | HarvardX *(em andamento)* |
 | ![Em Andamento](./status-in-progress.svg?v=2) | **Bootcamp GenAI, Dados & Cyber** | Bradesco *(em andamento)* |
 | ![Concluído](./status-completed.svg?v=2) | **Intensivo de Power BI** | Hashtag Treinamentos |
-| ![Concluído](./status-completed.svg?v=2) | **ABECIP CA300 — Crédito Imobiliário** | ABECIP |
-| ![Concluído](./status-completed.svg?v=2) | **FBB100 — Correspondente Completo + LGPD** | FEBRABAN |
+| ![Concluído](./status-completed.svg?v=2) | **ABECIP CA300 - Crédito Imobiliário** | ABECIP |
+| ![Concluído](./status-completed.svg?v=2) | **FBB100 - Correspondente Completo + LGPD** | FEBRABAN |
 
 </div>
 
