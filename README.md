@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Ezequiel Gomes Rocha" width="100%" />
+  <img src="banner.gif" alt="Ezequiel Gomes Rocha" width="75%" />
 </p>
 
 ## Featured Projects
