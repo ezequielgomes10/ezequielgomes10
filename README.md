@@ -1,100 +1,50 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Ezequiel Gomes Rocha - Data Analyst">
+  <img src="./assets/banner.gif" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Ezequiel Gomes Rocha</h1>
-
 <p align="center">
   Data Analyst • SQL • Python • Power BI • AI
 </p>
-
-<p align="center">
-  Transformando dados em análises, automações e produtos.
-</p>
-
----
-
-## About me
-
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente
-direciono meus estudos e projetos para Data Analytics, SQL, Python,
-Business Intelligence e Inteligência Artificial.
-
-Tenho interesse principalmente em:
-
-- Data Analysis
-- SQL & Databases
-- Python
-- Business Intelligence
-- Data Visualization
-- AI Agents & LLMs
-- Automation
-
----
-
-## Tech Stack
-
-`SQL` `Python` `Power BI` `BigQuery` `Looker Studio`  
-`Google Sheets` `Git` `GitHub` `APIs` `Streamlit` `AI`
 
 ---
 
 ## Featured Projects
 
-### 🔎 PIX Anomaly Detection
+### [PIX Anomaly Detection](https://github.com/ezequielgomes10/pix-anomaly-detection-bcb)
+Detecção de anomalias em dados de contestações Pix com análise estatística e visualização de dados.
 
-Detecção de anomalias estatísticas em dados públicos de contestações
-PIX disponibilizados pelo Banco Central do Brasil.
-
-**Python • Pandas • APIs • Data Analysis**
-
-[View project →](/ezequielgomes10/pix-anomaly-detection-bcb)
+**Stack:** Python, Pandas, Plotly, API
 
 ---
 
-### 🧠 AI Market Intelligence
+### [Investment Analytics Agent](https://github.com/ezequielgomes10/investments-analytics-agent)
+Agente de análise de investimentos com foco em comparação de cenários, apoio ao usuário iniciante e dashboard interativo.
 
-Projeto utilizando Inteligência Artificial e curadoria de fontes
-para transformar informações de mercado em insights acionáveis.
-
-**AI • Prompt Engineering • Data Analysis**
-
-[View project →](/ezequielgomes10/ai-market-intelligence-notebooklm)
+**Stack:** Python, Streamlit, APIs, AI
 
 ---
 
-### 🗃️ SQL Roadmap
+### [AI Market Intelligence](https://github.com/ezequielgomes10/ai-market-intelligence-notebooklm)
+Projeto com IA para transformar fontes e informações de mercado em insights acionáveis.
 
-Roadmap interativo para aprendizado de SQL com módulos,
-exercícios e estudos de caso.
-
-**SQL • Databases • HTML**
-
-[View project →](/ezequielgomes10/sql-roadmap)
+**Stack:** AI, Prompt Engineering, Analytics
 
 ---
 
-### 💬 Customer Feedback Analytics
+### [SQL Roadmap](https://github.com/ezequielgomes10/sql-roadmap)
+Roadmap interativo de estudos em SQL, com módulos, prática e organização de aprendizado.
 
-Projeto para extração e análise de insights a partir de
-feedbacks de clientes do setor bancário.
-
-**AI • Prompt Engineering • Analytics**
-
-[View project →](/ezequielgomes10/feedback-credito-prompt)
+**Stack:** SQL, HTML, GitHub Pages
 
 ---
 
-## Currently studying
+## Stack
 
-- Advanced SQL
-- Data Analytics
-- Python
-- BigQuery
-- Generative AI
+`SQL` `Python` `Power BI` `BigQuery` `Looker Studio` `Streamlit` `Git` `GitHub` `AI`
 
 ---
 
 ## Contact
 
-LinkedIn: **Ezequiel Gomes Rocha**
+- [LinkedIn](https://www.linkedin.com/
